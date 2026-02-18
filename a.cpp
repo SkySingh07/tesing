@@ -6,7 +6,8 @@ using namespace std;
 #define pb push_back
 const lli mod = 1e9 + 7;
 void solve(){
-
+int n;
+cin>>n;
  
 }
 signed main(){
